@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&family=Poppins:ital,wght@0,200;0,400;1,100;1,200&family=Raleway:wght@100&display=swap');
+
+*{
+    margin: 0;
+    font-family: "Poppins",sans-serif;
+}
+
+.App{
+    background-color: #111;
+}

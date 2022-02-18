@@ -1,0 +1,19 @@
+.nav{
+    display: flex;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: auto;
+    z-index: 1000;
+}
+.nav img{
+    width: 100px;
+    object-fit: contain;
+    margin: 0 15px;
+}
+.nav.black{
+    background: #000;
+    transition:all .5s ease-in;
+}
